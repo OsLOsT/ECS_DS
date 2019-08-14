@@ -1,2 +1,6 @@
 # ECS_DS
-Brandon, James and Sheng Yang. Stopwatch with ECS. No AI here.
+
+StopIt! - A stopwatch application for the PC/104. Created by Brandon, James and Sheng Yang.
+
+## Images
+Upload the images, preserving the directories in `Stopit/IMAGES`.
